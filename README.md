@@ -1,6 +1,18 @@
-# flutter_kim
+# Введение в программирование для мобильных платформ
 
-A new Flutter project.
+## Laboratory Work №3
+
+**Topic:** Cross-platform development tools. React Native, Flutter, Visual Studio (Xamarin).
+
+**Requirement:** 
+
+- Using the React Native framework, create an application using TypeScript consisting of a single screen with a text field placed in the center of the screen and a button below it. When you click on the button, the correctly formatted date and time are displayed in the text field. Make an Android app build. Launch and test the application on an emulator (create in AVD) or on a personal device, after enabling developer mode. For development, it is advisable to use IntelliJ Idea CE, or get a free student license for the Ultimate version.
+
+- Using the Flutter framework, create an application using Dart, consisting of a single screen with a text field placed in the center of the screen and a button below it. When you click on the button, the correctly formatted date and time are displayed in the text field. Make an Android app build. Launch and test the application on an emulator (create in AVD) or on a personal device, after enabling developer mode. It is advisable to use Android Studio for development.
+
+- Install MS Visual Studio CE with Xamarin mobile application development toolkit. Create an application using Xamarin Forms in C#, consisting of a single screen with a text field placed in the center of the screen and a button below it. When you click on the button, the correctly formatted date and time are displayed in the text field. Make an Android app build. Launch and test the application on an emulator (create in AVD) or on a personal device, after enabling developer mode.
+
+
 
 ## Getting Started
 
