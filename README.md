@@ -1,6 +1,6 @@
 # Введение в программирование для мобильных платформ
 
-## Laboratory Work №3
+## Laboratory Work №3 - Flutter
 
 **Topic:** Cross-platform development tools. React Native, Flutter, Visual Studio (Xamarin).
 
